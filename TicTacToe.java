@@ -82,6 +82,6 @@ public class TicTacToe
 			output = output + "\n";
 		}
 
-	return output+"\n\n";
+	return output;
 	}
 }
